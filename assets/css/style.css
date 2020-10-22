@@ -190,13 +190,14 @@ main {
     font-size: 36px;
 }
 
-.footer {
+/* Styling now applied to footer tag instead of .footer */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
